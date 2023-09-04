@@ -13,4 +13,5 @@ app.MapRazorPages();
 app.Run();
 
 
-// Run > Testes com servidor local Razor
+// Run > Testes com servidor local Razor 
+// Paginaas
