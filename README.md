@@ -1,4 +1,4 @@
 # MyRazorApp
 
-+++++ Testes com a tecnologia Razor (C#) +++++
-+++++ mini-curso Razor ++++
++++++ Testes com a tecnologia Razor (C#) | mini-curso Razor +++++
+
